@@ -1,1 +1,1 @@
-# studious-barnacle
+# relative humidity prediction project
